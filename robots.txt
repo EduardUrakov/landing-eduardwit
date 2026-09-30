@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://landing-eduardwit.vercel.app/sitemap.xml
+Sitemap: https://eduardurakov.github.io/landing-eduardwit/sitemap.xml
