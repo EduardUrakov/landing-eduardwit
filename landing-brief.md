@@ -12,7 +12,7 @@
 | Стиль | Минимализм / премиум, светлый |
 | Стек | HTML5 + CSS3 + Vanilla JS (без бэкенда) |
 | Адаптивность | mobile-first, 320px → 4K |
-| Деплой | Vercel (готово к `vercel --prod`) |
+| Деплой | GitHub Pages: `https://eduardurakov.github.io/landing-eduardwit/` |
 | SEO | title, description, OG-теги |
 
 ## Секции
@@ -35,5 +35,5 @@
 
 - [x] Реальные контакты (телефон, email, Telegram) — 2026-09-30
 - [ ] Тексты услуг/кейсов подтверждены
-- [ ] Favicon
-- [ ] `vercel --prod` и домен/поддомен
+- [x] Favicon + og:image — 2026-09-30
+- [x] Деплой GitHub Pages + HTTPS — 2026-09-30
